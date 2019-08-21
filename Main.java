@@ -9,7 +9,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        Path path = Paths.get("C:\\MyJava\\Spring\\untitled1\\src\\com\\maksimtymkovskiy\\input.txt");
+        Path path = Paths.get("\\src\\com\\maksimtymkovskiy\\input.txt");
 
         List<String> list = null;
         try {
